@@ -38,7 +38,6 @@ Analizar las características del Inductor y su comportamiento en circuitos CD, 
 ![tarea 7_page-0009](https://user-images.githubusercontent.com/116780907/220472889-f2e520fd-bad4-4ba8-bacf-2c052f25ad5c.jpg)
 ![tarea 7_page-0010](https://user-images.githubusercontent.com/116780907/220472921-59eb32db-2449-4b45-ba81-41b56912a21a.jpg)
 ![tarea 7_page-0011](https://user-images.githubusercontent.com/116780907/220472955-159d5be8-8861-4652-b0d2-6bf7915c4217.jpg)
-
 # Conclusiones
 - Un inductor es un componente electrónico que se utiliza para almacenar energía en forma de campo magnético, lo que lo convierte en una fuente de energía muy útil para una amplia variedad de aplicaciones. Las características básicas de un inductor incluyen su inductancia, su resistencia eléctrica y su capacidad para soportar la corriente eléctrica.
 - Cuando se conectan inductores en serie, la inductancia total es la suma de las inductancias individuales, mientras que cuando se conectan en paralelo, la inductancia total se reduce. Es importante tener en cuenta que, en ambos casos, la corriente que fluye a través de los inductores es la misma.
